@@ -24,3 +24,887 @@
 [2025-10-22 12:15:44] 🛑 Monitoring stopped by user (completed 31 checks)
 [2025-10-22 12:15:44] ================================================================================
 [2025-10-22 13:26:39] 💓 System healthy: 120 checks completed, monitoring continues...
+[2025-10-22 14:33:42] 💓 System healthy: 240 checks completed, monitoring continues...
+[2025-10-22 15:45:56] 💓 System healthy: 360 checks completed, monitoring continues...
+[2025-10-22 16:22:45] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-22 17:04:28] 💓 System healthy: 480 checks completed, monitoring continues...
+[2025-10-22 18:05:34] 💓 System healthy: 600 checks completed, monitoring continues...
+[2025-10-22 18:30:08] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a14a390>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-22 19:40:47] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10762cbf0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-22 19:41:17] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a9d6270>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-22 19:49:20] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10aafab70>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-22 19:49:50] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a1948f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-22 20:53:05] 💓 System healthy: 720 checks completed, monitoring continues...
+[2025-10-22 21:34:16] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-22 21:38:57] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-22 21:42:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:42:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:43:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:43:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:44:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:44:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:45:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:45:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:46:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:46:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:47:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:47:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:48:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:48:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:49:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:49:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:50:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:50:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:51:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:51:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:52:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:52:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:53:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:53:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:54:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:54:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:55:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:55:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:56:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:56:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:57:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:57:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:58:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:58:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:59:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 21:59:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:00:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:00:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:01:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:01:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:02:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:02:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:03:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:03:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:04:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:04:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:05:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:05:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:06:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:06:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:07:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:07:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:08:29] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:08:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:09:29] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:09:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:10:29] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:11:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:11:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:12:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:12:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:13:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:13:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:14:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:14:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:15:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:15:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:16:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:16:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:17:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:17:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:18:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:18:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:19:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:19:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:20:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:20:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:21:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:21:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:22:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:22:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:23:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:23:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:24:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:24:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:25:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:25:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:26:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:26:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:27:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:27:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:28:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:28:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:29:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:29:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:30:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:30:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:31:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:31:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:32:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:32:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:33:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:33:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:34:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:34:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:35:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:35:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:36:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:36:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:37:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:37:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:38:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:38:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:39:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:39:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:40:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:40:39] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:41:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:41:39] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:42:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:42:39] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:43:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:43:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:44:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:44:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:45:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:45:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:46:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:46:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:47:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:47:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:48:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:48:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:49:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:49:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:50:12] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:50:42] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:51:12] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:51:42] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:52:12] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:52:42] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:53:12] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:53:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:54:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:54:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:55:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:55:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:56:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:56:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:57:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:57:44] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:58:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:58:44] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:59:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 22:59:44] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:00:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:00:45] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:01:15] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:01:45] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:02:15] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:02:45] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:03:15] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:03:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:04:16] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:04:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:05:16] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:05:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:06:16] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:06:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:07:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:07:47] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:08:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:08:47] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:09:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:09:47] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:10:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:10:48] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:11:18] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:11:48] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:12:18] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:12:48] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:13:18] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:13:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:14:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:14:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:15:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:15:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:16:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:16:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:17:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:17:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:18:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:18:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:19:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:19:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:20:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:20:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:21:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:21:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:22:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:22:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:23:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:23:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:24:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:24:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:25:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:25:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:26:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:29:49] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-22 23:30:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:30:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:31:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:31:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:32:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:32:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:33:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:33:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:34:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:34:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:35:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:35:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:36:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:36:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:37:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:37:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:38:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:38:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:39:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:39:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:40:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:40:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:41:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:41:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:42:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:42:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:43:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:43:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:44:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:44:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:45:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:45:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:46:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:46:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:47:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:47:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:48:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:48:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:49:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:49:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:50:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:50:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:51:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:51:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:52:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:52:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:53:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:53:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:54:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:54:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:55:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:55:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:56:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:56:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:57:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:57:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:58:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:58:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:59:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-22 23:59:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:00:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:00:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:01:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:01:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:02:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:02:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:03:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:03:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:04:29] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:04:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:05:29] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:05:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:06:29] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:06:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:07:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:08:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:08:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:09:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:09:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:10:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:10:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:11:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:11:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:12:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:12:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:13:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:13:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:14:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:14:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:15:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:15:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:16:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:16:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:17:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:17:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:18:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:18:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:19:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:19:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:20:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:20:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:21:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:21:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:22:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:22:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:23:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:23:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:24:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:24:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:25:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:25:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:26:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:26:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:27:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:27:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:28:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:28:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:29:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:29:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:30:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:30:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:31:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:31:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:32:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:32:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:33:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:33:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:34:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:34:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:35:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:35:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:36:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:36:39] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:37:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:37:39] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+[2025-10-23 00:38:09] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+[2025-10-23 00:38:39] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+[2025-10-23 00:39:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:39:39] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:40:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:40:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:41:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:41:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:42:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:42:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:43:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:43:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:44:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:44:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:45:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:45:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:46:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:46:42] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:47:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:47:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:48:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:48:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 00:49:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-23 09:05:05] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-23 10:21:28] 🚨 EARTHQUAKE DETECTED: 22 ekim 2025 - MERSIN
+[2025-10-23 10:21:28]    Başlık: 22 ekim 2025 mersin'de rottweiler saldırısı
+[2025-10-23 10:21:28]    URL: https://eksisozluk.com/22-ekim-2025-mersinde-rottweiler-saldirisi--8038462?a=popular
+[2025-10-23 10:21:28]    Entry count: 14
+[2025-10-23 10:21:28]    Confidence: medium
+[2025-10-23 14:35:57] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a5e8fb0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-23 14:54:15] 🚨 EARTHQUAKE DETECTED: 23 ekim 2025 - KAYSERI
+[2025-10-23 14:54:15]    Başlık: 23 ekim 2025 kayseri erü'de kadın cinayeti
+[2025-10-23 14:54:15]    URL: https://eksisozluk.com/23-ekim-2025-kayseri-erude-kadin-cinayeti--8038626?a=popular
+[2025-10-23 14:54:15]    Entry count: 32
+[2025-10-23 14:54:15]    Confidence: medium
+[2025-10-23 17:42:17] 💓 System healthy: 1200 checks completed, monitoring continues...
+[2025-10-23 18:05:58] ❌ HTTP error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2025-10-23 19:09:13] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a9ed340>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-23 20:14:56] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10aab5eb0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-23 21:53:09] 💓 System healthy: 1320 checks completed, monitoring continues...
+[2025-10-23 22:53:59] 💓 System healthy: 1440 checks completed, monitoring continues...
+[2025-10-23 23:54:46] 💓 System healthy: 1560 checks completed, monitoring continues...
+[2025-10-24 02:03:33] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x107662cc0>, 'Connection to eksisozluk.com timed out. (connect timeout=20)'))
+[2025-10-24 02:43:26] 💓 System healthy: 1680 checks completed, monitoring continues...
+[2025-10-24 03:59:13] 💓 System healthy: 1800 checks completed, monitoring continues...
+[2025-10-24 06:00:04] 💓 System healthy: 1920 checks completed, monitoring continues...
+[2025-10-24 07:43:54] 💓 System healthy: 2040 checks completed, monitoring continues...
+[2025-10-24 09:14:46] 💓 System healthy: 2160 checks completed, monitoring continues...
+[2025-10-24 10:24:05] 💓 System healthy: 2280 checks completed, monitoring continues...
+[2025-10-24 11:24:47] 💓 System healthy: 2400 checks completed, monitoring continues...
+[2025-10-24 12:15:41] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+[2025-10-24 12:38:40] 💓 System healthy: 2520 checks completed, monitoring continues...
+[2025-10-24 13:39:24] 💓 System healthy: 2640 checks completed, monitoring continues...
+[2025-10-24 14:38:37] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a669280>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 14:41:56] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10788a420>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 15:41:17] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a262c90>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 16:24:02] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a260b30>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 17:25:06] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a260a10>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 18:26:02] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10adca450>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 19:43:17] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a263aa0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 20:57:02] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a262e40>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 20:59:46] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a261580>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 21:18:28] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10788a3f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 21:41:10] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10aaf97f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-24 22:30:21] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out.
+[2025-10-24 22:40:43] 🚨 EARTHQUAKE DETECTED: 24 ekim 2025 - ISTANBUL
+[2025-10-24 22:40:43]    Başlık: 24 ekim 2025 istanbul yağmuru
+[2025-10-24 22:40:43]    URL: https://eksisozluk.com/24-ekim-2025-istanbul-yagmuru--8038863?a=popular
+[2025-10-24 22:40:43]    Entry count: 192
+[2025-10-24 22:40:43]    Confidence: medium
+[2025-10-24 22:47:07] ❌ HTTP error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2025-10-24 22:51:47] 💓 System healthy: 2760 checks completed, monitoring continues...
+[2025-10-24 23:20:52] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-25 04:09:13] 💓 System healthy: 2880 checks completed, monitoring continues...
+[2025-10-25 14:35:55] ❌ HTTP error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2025-10-25 22:50:49] 💓 System healthy: 3000 checks completed, monitoring continues...
+[2025-10-26 01:56:46] ❌ HTTP error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-10-26 06:08:43] ❌ HTTP error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-10-26 10:56:29] 💓 System healthy: 3120 checks completed, monitoring continues...
+[2025-10-26 11:19:49] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out.
+[2025-10-26 12:25:02] 💓 System healthy: 3240 checks completed, monitoring continues...
+[2025-10-26 13:26:10] 💓 System healthy: 3360 checks completed, monitoring continues...
+[2025-10-26 14:27:14] 💓 System healthy: 3480 checks completed, monitoring continues...
+[2025-10-26 15:28:15] 💓 System healthy: 3600 checks completed, monitoring continues...
+[2025-10-26 16:29:17] 💓 System healthy: 3720 checks completed, monitoring continues...
+[2025-10-26 17:31:08] 💓 System healthy: 3840 checks completed, monitoring continues...
+[2025-10-26 17:43:18] 🚨 EARTHQUAKE DETECTED: 26 ekim 2025 - ESKIŞEHIR
+[2025-10-26 17:43:18]    Başlık: 26 ekim 2025 chp eskişehir mitingi
+[2025-10-26 17:43:18]    URL: https://eksisozluk.com/26-ekim-2025-chp-eskisehir-mitingi--8038080?a=popular
+[2025-10-26 17:43:18]    Entry count: 22
+[2025-10-26 17:43:18]    Confidence: medium
+[2025-10-26 18:50:58] 💓 System healthy: 3960 checks completed, monitoring continues...
+[2025-10-26 19:49:02] 🚨 EARTHQUAKE DETECTED: 26 ekim 2025 - ISTANBUL
+[2025-10-26 19:49:02]    Başlık: 26 ekim 2025 istanbul depremi
+[2025-10-26 19:49:02]    URL: https://eksisozluk.com/26-ekim-2025-istanbul-depremi--8039695?a=popular
+[2025-10-26 19:49:02]    Entry count: 33
+[2025-10-26 19:49:02]    Confidence: high
+[2025-10-26 19:52:35] 💓 System healthy: 4080 checks completed, monitoring continues...
+[2025-10-26 20:53:42] 💓 System healthy: 4200 checks completed, monitoring continues...
+[2025-10-26 21:57:53] 💓 System healthy: 4320 checks completed, monitoring continues...
+[2025-10-26 23:19:24] 💓 System healthy: 4440 checks completed, monitoring continues...
+[2025-10-27 00:20:29] 💓 System healthy: 4560 checks completed, monitoring continues...
+[2025-10-27 01:30:47] 💓 System healthy: 4680 checks completed, monitoring continues...
+[2025-10-27 05:59:23] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 10:53:33] 🚨 EARTHQUAKE DETECTED: 27 ekim 2025 - GAZIANTEP
+[2025-10-27 10:53:33]    Başlık: 27 ekim 2025 gaziantep fk fenerbahçe maçı
+[2025-10-27 10:53:33]    URL: https://eksisozluk.com/27-ekim-2025-gaziantep-fk-fenerbahce-maci--8025917?a=popular
+[2025-10-27 10:53:33]    Entry count: 15
+[2025-10-27 10:53:33]    Confidence: medium
+[2025-10-27 12:42:14] 💓 System healthy: 4800 checks completed, monitoring continues...
+[2025-10-27 13:43:29] 💓 System healthy: 4920 checks completed, monitoring continues...
+[2025-10-27 14:44:30] 💓 System healthy: 5040 checks completed, monitoring continues...
+[2025-10-27 15:45:32] 💓 System healthy: 5160 checks completed, monitoring continues...
+[2025-10-27 17:05:28] 🚨 EARTHQUAKE DETECTED: 27 ekim 2025 - ISTANBUL
+[2025-10-27 17:05:28]    Başlık: 27 ekim 2025 istanbul yağmuru
+[2025-10-27 17:05:28]    URL: https://eksisozluk.com/27-ekim-2025-istanbul-yagmuru--8039892?a=popular
+[2025-10-27 17:05:28]    Entry count: 34
+[2025-10-27 17:05:28]    Confidence: medium
+[2025-10-27 17:52:26] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 18:00:35] 💓 System healthy: 5280 checks completed, monitoring continues...
+[2025-10-27 19:14:07] 💓 System healthy: 5400 checks completed, monitoring continues...
+[2025-10-27 20:15:08] 💓 System healthy: 5520 checks completed, monitoring continues...
+[2025-10-27 21:16:23] 💓 System healthy: 5640 checks completed, monitoring continues...
+[2025-10-27 22:17:27] 💓 System healthy: 5760 checks completed, monitoring continues...
+[2025-10-27 22:54:15] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 22:55:14] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 22:56:04] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 22:56:54] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 22:57:45] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 22:58:35] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 22:59:25] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 23:00:15] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 23:01:05] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 23:01:55] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 23:02:42] 🚨 EARTHQUAKE DETECTED: 27 ekim 2025 - IZMIR
+[2025-10-27 23:02:42]    Başlık: 27 ekim 2025 izmir depremi
+[2025-10-27 23:02:42]    URL: https://eksisozluk.com/27-ekim-2025-izmir-depremi--8040037?a=popular
+[2025-10-27 23:02:42]    Entry count: 115
+[2025-10-27 23:02:42]    Confidence: high
+[2025-10-27 23:02:42] 🚨 EARTHQUAKE DETECTED: 27 ekim 2025 - BALIKESIR
+[2025-10-27 23:02:42]    Başlık: 27 ekim 2025 balıkesir depremi
+[2025-10-27 23:02:42]    URL: https://eksisozluk.com/27-ekim-2025-balikesir-depremi--8040038?a=popular
+[2025-10-27 23:02:42]    Entry count: 65
+[2025-10-27 23:02:42]    Confidence: high
+[2025-10-27 23:03:32] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 23:05:48] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-27 23:14:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:14:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:15:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:15:44] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:16:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:16:45] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:17:15] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:17:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:18:16] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:18:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:19:16] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:19:47] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:20:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:20:48] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:21:18] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:21:48] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:22:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:22:49] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:23:19] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:23:50] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:24:20] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:24:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:25:21] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:25:51] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:26:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:26:52] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:27:22] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:27:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:28:23] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:28:53] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:29:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:29:54] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:30:24] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:30:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:31:25] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:31:55] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:32:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:32:56] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:33:26] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:33:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:34:27] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:34:57] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:35:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:35:58] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:36:28] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:36:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:37:29] ❌ Unexpected error in main loop: [Errno 32] Broken pipe
+[2025-10-27 23:37:59] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:38:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:39:00] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:39:30] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:40:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:40:31] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:41:01] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:41:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:42:02] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:42:32] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:43:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:43:33] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:44:03] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:44:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:45:04] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:45:34] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:46:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:46:35] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:47:05] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:47:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:48:06] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:48:36] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:49:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:49:37] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:50:07] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:50:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:51:08] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:51:38] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:52:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:52:39] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:53:09] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:53:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:54:10] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:54:40] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:55:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:55:41] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:56:11] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:56:42] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:57:12] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:57:42] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:58:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:58:43] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:59:13] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-27 23:59:44] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:00:14] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:00:44] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:01:15] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:01:45] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:02:15] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:02:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:03:16] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:03:46] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:04:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:04:47] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:05:17] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:05:48] ❌ HTTP error: 403 Client Error: Forbidden for url: https://eksisozluk.com/basliklar/gundem
+[2025-10-28 00:29:41] 💓 System healthy: 6000 checks completed, monitoring continues...
+[2025-10-28 01:30:48] 💓 System healthy: 6120 checks completed, monitoring continues...
+[2025-10-28 10:39:49] 🚨 EARTHQUAKE DETECTED: 28 ekim 2025 - BALIKESIR
+[2025-10-28 10:39:49]    Başlık: 28 ekim 2025 balıkesir depremi
+[2025-10-28 10:39:49]    URL: https://eksisozluk.com/28-ekim-2025-balikesir-depremi--8040098?a=popular
+[2025-10-28 10:39:49]    Entry count: 13
+[2025-10-28 10:39:49]    Confidence: high
+[2025-10-28 11:20:01] 💓 System healthy: 6240 checks completed, monitoring continues...
+[2025-10-28 12:24:10] 💓 System healthy: 6360 checks completed, monitoring continues...
+[2025-10-28 13:49:33] 💓 System healthy: 6480 checks completed, monitoring continues...
+[2025-10-28 14:51:10] 💓 System healthy: 6600 checks completed, monitoring continues...
+[2025-10-28 15:53:14] 💓 System healthy: 6720 checks completed, monitoring continues...
+[2025-10-28 16:54:19] 💓 System healthy: 6840 checks completed, monitoring continues...
+[2025-10-28 17:57:35] 💓 System healthy: 6960 checks completed, monitoring continues...
+[2025-10-28 18:58:39] 💓 System healthy: 7080 checks completed, monitoring continues...
+[2025-10-28 20:43:24] 💓 System healthy: 7200 checks completed, monitoring continues...
+[2025-10-28 21:44:30] 💓 System healthy: 7320 checks completed, monitoring continues...
+[2025-10-28 22:45:37] 💓 System healthy: 7440 checks completed, monitoring continues...
+[2025-10-28 23:46:45] 💓 System healthy: 7560 checks completed, monitoring continues...
+[2025-10-29 00:01:52] ❌ Unexpected error in main loop: [Errno 32] Broken pipe
+[2025-10-29 00:48:45] 💓 System healthy: 7680 checks completed, monitoring continues...
+[2025-10-29 01:49:45] 💓 System healthy: 7800 checks completed, monitoring continues...
+[2025-10-29 11:45:09] 💓 System healthy: 7920 checks completed, monitoring continues...
+[2025-10-29 12:49:07] 💓 System healthy: 8040 checks completed, monitoring continues...
+[2025-10-29 17:05:51] 💓 System healthy: 8160 checks completed, monitoring continues...
+[2025-10-30 01:12:05] 💓 System healthy: 8280 checks completed, monitoring continues...
+[2025-10-30 11:24:28] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10aa17290>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 11:24:58] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab613a0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 12:13:18] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a025130>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 13:00:31] 💓 System healthy: 8400 checks completed, monitoring continues...
+[2025-10-30 14:05:04] 💓 System healthy: 8520 checks completed, monitoring continues...
+[2025-10-30 14:10:16] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a24c590>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 15:22:18] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-30 17:49:12] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a4af770>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 17:49:42] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a7f1dc0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 18:08:28] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ad55af0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 18:26:45] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ad56120>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 18:34:51] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a026270>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 18:35:21] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a7f3380>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-30 20:48:44] 💓 System healthy: 8640 checks completed, monitoring continues...
+[2025-10-30 21:49:31] 💓 System healthy: 8760 checks completed, monitoring continues...
+[2025-10-30 22:50:14] 💓 System healthy: 8880 checks completed, monitoring continues...
+[2025-10-30 23:18:59] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-10-30 23:52:20] 💓 System healthy: 9000 checks completed, monitoring continues...
+[2025-10-31 00:57:36] 💓 System healthy: 9120 checks completed, monitoring continues...
+[2025-10-31 01:59:03] 💓 System healthy: 9240 checks completed, monitoring continues...
+[2025-10-31 10:47:31] 💓 System healthy: 9360 checks completed, monitoring continues...
+[2025-10-31 11:48:10] 💓 System healthy: 9480 checks completed, monitoring continues...
+[2025-10-31 12:48:54] 💓 System healthy: 9600 checks completed, monitoring continues...
+[2025-10-31 13:49:38] 💓 System healthy: 9720 checks completed, monitoring continues...
+[2025-10-31 15:01:50] 🚨 EARTHQUAKE DETECTED: 21 ocak 2025 - BOLU
+[2025-10-31 15:01:50]    Başlık: 21 ocak 2025 bolu kartalkaya otel yangını
+[2025-10-31 15:01:50]    URL: https://eksisozluk.com/21-ocak-2025-bolu-kartalkaya-otel-yangini--7929369?a=popular
+[2025-10-31 15:01:50]    Entry count: 23
+[2025-10-31 15:01:50]    Confidence: medium
+[2025-10-31 15:39:38] 💓 System healthy: 9840 checks completed, monitoring continues...
+[2025-10-31 17:59:09] 💓 System healthy: 9960 checks completed, monitoring continues...
+[2025-10-31 19:00:20] 💓 System healthy: 10080 checks completed, monitoring continues...
+[2025-10-31 19:26:46] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a3045f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-31 19:30:24] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10acdec00>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-31 20:21:44] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10abb34a0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-31 21:20:08] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10abb3d70>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-31 21:20:38] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab5c6b0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-10-31 23:30:58] 💓 System healthy: 10200 checks completed, monitoring continues...
+[2025-11-01 00:29:28] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-01 00:35:19] 💓 System healthy: 10320 checks completed, monitoring continues...
+[2025-11-01 09:28:41] 💓 System healthy: 10440 checks completed, monitoring continues...
+[2025-11-01 10:55:29] 💓 System healthy: 10560 checks completed, monitoring continues...
+[2025-11-01 11:43:33] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-01 11:56:57] ❌ Unexpected error in main loop: [Errno 32] Broken pipe
+[2025-11-01 13:00:15] 💓 System healthy: 10800 checks completed, monitoring continues...
+[2025-11-01 14:01:16] 💓 System healthy: 10920 checks completed, monitoring continues...
+[2025-11-01 15:02:16] 💓 System healthy: 11040 checks completed, monitoring continues...
+[2025-11-01 16:03:19] 💓 System healthy: 11160 checks completed, monitoring continues...
+[2025-11-01 17:13:01] 💓 System healthy: 11280 checks completed, monitoring continues...
+[2025-11-01 18:34:56] 💓 System healthy: 11400 checks completed, monitoring continues...
+[2025-11-01 20:14:35] 💓 System healthy: 11520 checks completed, monitoring continues...
+[2025-11-01 22:04:04] 💓 System healthy: 11640 checks completed, monitoring continues...
+[2025-11-01 23:02:07] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out.
+[2025-11-01 23:05:40] 💓 System healthy: 11760 checks completed, monitoring continues...
+[2025-11-02 00:06:51] 💓 System healthy: 11880 checks completed, monitoring continues...
+[2025-11-02 01:22:03] 💓 System healthy: 12000 checks completed, monitoring continues...
+[2025-11-02 08:16:52] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a8b00e0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 09:03:59] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ad12a20>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 10:29:35] 💓 System healthy: 12120 checks completed, monitoring continues...
+[2025-11-02 13:27:51] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-02 14:36:43] 💓 System healthy: 12240 checks completed, monitoring continues...
+[2025-11-02 15:43:22] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a903800>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 15:43:52] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab454f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 15:59:34] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a059f10>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 16:05:31] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ac2d6a0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 16:06:02] 💓 System healthy: 12360 checks completed, monitoring continues...
+[2025-11-02 16:06:43] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10aab0e60>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 16:07:13] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a10bb30>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-02 17:39:12] 💓 System healthy: 12480 checks completed, monitoring continues...
+[2025-11-02 19:14:21] 💓 System healthy: 12600 checks completed, monitoring continues...
+[2025-11-02 21:28:44] 💓 System healthy: 12720 checks completed, monitoring continues...
+[2025-11-02 22:29:32] 💓 System healthy: 12840 checks completed, monitoring continues...
+[2025-11-02 23:30:25] 💓 System healthy: 12960 checks completed, monitoring continues...
+[2025-11-03 00:36:07] 💓 System healthy: 13080 checks completed, monitoring continues...
+[2025-11-03 01:36:56] 💓 System healthy: 13200 checks completed, monitoring continues...
+[2025-11-03 11:35:05] 💓 System healthy: 13320 checks completed, monitoring continues...
+[2025-11-03 12:39:03] 💓 System healthy: 13440 checks completed, monitoring continues...
+[2025-11-03 13:39:51] 💓 System healthy: 13560 checks completed, monitoring continues...
+[2025-11-03 14:50:30] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a933c20>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-03 14:58:56] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a4f4cb0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-03 15:12:26] 🚨 EARTHQUAKE DETECTED: 19 temmuz 2026 - ISTANBUL
+[2025-11-03 15:12:26]    Başlık: 19 temmuz 2026 savatage istanbul konseri
+[2025-11-03 15:12:26]    URL: https://eksisozluk.com/19-temmuz-2026-savatage-istanbul-konseri--8041985?a=popular
+[2025-11-03 15:12:26]    Entry count: 13
+[2025-11-03 15:12:26]    Confidence: medium
+[2025-11-03 15:25:41] 💓 System healthy: 13680 checks completed, monitoring continues...
+[2025-11-03 15:59:33] 🚨 EARTHQUAKE DETECTED: 3 kasım 2025 - BALIKESIR
+[2025-11-03 15:59:33]    Başlık: 3 kasım 2025 balıkesir depremi
+[2025-11-03 15:59:33]    URL: https://eksisozluk.com/3-kasim-2025-balikesir-depremi--8042036?a=popular
+[2025-11-03 15:59:33]    Entry count: 135
+[2025-11-03 15:59:33]    Confidence: high
+[2025-11-03 16:55:51] 💓 System healthy: 13800 checks completed, monitoring continues...
+[2025-11-03 17:57:04] 💓 System healthy: 13920 checks completed, monitoring continues...
+[2025-11-03 19:34:00] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a53c9b0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-03 19:42:04] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a5f5a00>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-03 19:53:35] 💓 System healthy: 14040 checks completed, monitoring continues...
+[2025-11-03 21:02:18] 💓 System healthy: 14160 checks completed, monitoring continues...
+[2025-11-03 22:03:03] 💓 System healthy: 14280 checks completed, monitoring continues...
+[2025-11-03 23:03:50] 💓 System healthy: 14400 checks completed, monitoring continues...
+[2025-11-04 00:30:39] 🚨 EARTHQUAKE DETECTED: 4 kasım 2025 - ISTANBUL
+[2025-11-04 00:30:39]    Başlık: 4 kasım 2025 istanbul depremi
+[2025-11-04 00:30:39]    URL: https://eksisozluk.com/4-kasim-2025-istanbul-depremi--8042184?a=popular
+[2025-11-04 00:30:39]    Entry count: 18
+[2025-11-04 00:30:39]    Confidence: high
+[2025-11-04 07:57:52] ❌ Unexpected error in main loop: [Errno 32] Broken pipe
+[2025-11-04 08:08:05] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a932ea0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-04 08:15:19] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a931d60>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-04 09:06:11] 💓 System healthy: 14520 checks completed, monitoring continues...
+[2025-11-04 11:16:44] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a844710>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-04 11:17:25] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a844a40>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-04 11:55:21] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-04 13:37:53] 💓 System healthy: 14640 checks completed, monitoring continues...
+[2025-11-04 14:47:43] 💓 System healthy: 14760 checks completed, monitoring continues...
+[2025-11-04 15:58:55] 💓 System healthy: 14880 checks completed, monitoring continues...
+[2025-11-04 19:31:11] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab99760>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-04 19:31:41] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a9c48f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-04 21:59:56] 💓 System healthy: 15000 checks completed, monitoring continues...
+[2025-11-04 23:00:42] 💓 System healthy: 15120 checks completed, monitoring continues...
+[2025-11-05 03:03:43] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ad5e960>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 03:05:06] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ac15460>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 09:46:54] 💓 System healthy: 15240 checks completed, monitoring continues...
+[2025-11-05 10:47:35] 💓 System healthy: 15360 checks completed, monitoring continues...
+[2025-11-05 11:15:27] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107672480>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 11:15:57] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a1064e0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 12:34:01] 🚨 EARTHQUAKE DETECTED: 14 temmuz 2026 - ISTANBUL
+[2025-11-05 12:34:01]    Başlık: 14 temmuz 2026 gorillaz istanbul konseri
+[2025-11-05 12:34:01]    URL: https://eksisozluk.com/14-temmuz-2026-gorillaz-istanbul-konseri--8042340?a=popular
+[2025-11-05 12:34:01]    Entry count: 13
+[2025-11-05 12:34:01]    Confidence: medium
+[2025-11-05 12:48:21] 💓 System healthy: 15480 checks completed, monitoring continues...
+[2025-11-05 13:49:30] 💓 System healthy: 15600 checks completed, monitoring continues...
+[2025-11-05 14:29:29] ❌ HTTP error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2025-11-05 14:58:58] 💓 System healthy: 15720 checks completed, monitoring continues...
+[2025-11-05 16:00:06] 💓 System healthy: 15840 checks completed, monitoring continues...
+[2025-11-05 17:08:03] 💓 System healthy: 15960 checks completed, monitoring continues...
+[2025-11-05 18:26:07] 💓 System healthy: 16080 checks completed, monitoring continues...
+[2025-11-05 19:27:25] 💓 System healthy: 16200 checks completed, monitoring continues...
+[2025-11-05 20:26:50] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10731fce0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 20:39:56] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a11abd0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 20:40:26] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10731f350>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 21:17:18] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1078b27b0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-05 21:40:04] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-05 21:41:05] 💓 System healthy: 16320 checks completed, monitoring continues...
+[2025-11-05 22:41:50] 💓 System healthy: 16440 checks completed, monitoring continues...
+[2025-11-05 23:42:37] 💓 System healthy: 16560 checks completed, monitoring continues...
+[2025-11-06 00:43:23] 💓 System healthy: 16680 checks completed, monitoring continues...
+[2025-11-06 01:44:11] 💓 System healthy: 16800 checks completed, monitoring continues...
+[2025-11-06 09:02:37] 💓 System healthy: 16920 checks completed, monitoring continues...
+[2025-11-06 10:03:13] 💓 System healthy: 17040 checks completed, monitoring continues...
+[2025-11-06 11:17:11] 💓 System healthy: 17160 checks completed, monitoring continues...
+[2025-11-06 12:17:54] 💓 System healthy: 17280 checks completed, monitoring continues...
+[2025-11-06 13:53:34] 💓 System healthy: 17400 checks completed, monitoring continues...
+[2025-11-06 15:11:18] 💓 System healthy: 17520 checks completed, monitoring continues...
+[2025-11-06 16:22:32] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ad544a0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-06 16:33:40] 💓 System healthy: 17640 checks completed, monitoring continues...
+[2025-11-06 17:51:19] ❌ Unexpected error in main loop: [Errno 32] Broken pipe
+[2025-11-06 18:52:34] 💓 System healthy: 17880 checks completed, monitoring continues...
+[2025-11-06 20:14:47] 💓 System healthy: 18000 checks completed, monitoring continues...
+[2025-11-06 21:09:11] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a1073b0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-06 21:10:52] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1076b2ea0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-06 21:11:22] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a41d6d0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-06 21:18:57] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10a105b20>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+[2025-11-06 21:47:34] 💓 System healthy: 18120 checks completed, monitoring continues...
+[2025-11-06 22:48:17] 💓 System healthy: 18240 checks completed, monitoring continues...
+[2025-11-06 23:48:59] 💓 System healthy: 18360 checks completed, monitoring continues...
+[2025-11-07 00:49:53] 💓 System healthy: 18480 checks completed, monitoring continues...
+[2025-11-07 01:50:39] 💓 System healthy: 18600 checks completed, monitoring continues...
+[2025-11-07 11:00:58] 💓 System healthy: 18720 checks completed, monitoring continues...
+[2025-11-07 12:17:37] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10787e810>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 12:18:07] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10787cd10>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 12:55:55] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab60c80>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 12:56:25] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab621e0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 13:07:15] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ab60a40>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 13:07:45] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a4b8b00>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 14:00:44] 💓 System healthy: 18840 checks completed, monitoring continues...
+[2025-11-07 15:09:05] 💓 System healthy: 18960 checks completed, monitoring continues...
+[2025-11-07 16:29:05] 💓 System healthy: 19080 checks completed, monitoring continues...
+[2025-11-07 16:58:38] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a8a3170>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 17:42:40] 💓 System healthy: 19200 checks completed, monitoring continues...
+[2025-11-07 19:09:13] 💓 System healthy: 19320 checks completed, monitoring continues...
+[2025-11-07 20:10:21] 💓 System healthy: 19440 checks completed, monitoring continues...
+[2025-11-07 21:12:06] 💓 System healthy: 19560 checks completed, monitoring continues...
+[2025-11-07 22:13:09] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a116d20>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 22:19:48] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a3ce000>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 22:51:20] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a238830>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-07 23:44:16] 💓 System healthy: 19680 checks completed, monitoring continues...
+[2025-11-08 07:37:53] 💓 System healthy: 19800 checks completed, monitoring continues...
+[2025-11-08 08:24:49] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-08 09:10:48] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a56b050>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-08 09:11:35] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10ae10950>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-08 09:13:32] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107618590>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-08 11:14:07] 💓 System healthy: 19920 checks completed, monitoring continues...
+[2025-11-08 12:05:26] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-08 12:17:39] 💓 System healthy: 20040 checks completed, monitoring continues...
+[2025-11-08 13:22:17] 💓 System healthy: 20160 checks completed, monitoring continues...
+[2025-11-08 16:28:34] 🚨 EARTHQUAKE DETECTED: 8 kasım 2025 - ORDU
+[2025-11-08 16:28:34]    Başlık: 8 kasım 2025 chp ordu mitingi
+[2025-11-08 16:28:34]    URL: https://eksisozluk.com/8-kasim-2025-chp-ordu-mitingi--8042106?a=popular
+[2025-11-08 16:28:34]    Entry count: 40
+[2025-11-08 16:28:34]    Confidence: medium
+[2025-11-08 16:45:57] 💓 System healthy: 20280 checks completed, monitoring continues...
+[2025-11-08 17:47:04] ❌ Unexpected error in main loop: [Errno 32] Broken pipe
+[2025-11-08 21:20:29] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1078d41a0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-08 21:25:11] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1078d6de0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-08 23:16:05] 💓 System healthy: 20520 checks completed, monitoring continues...
+[2025-11-09 00:33:58] 💓 System healthy: 20640 checks completed, monitoring continues...
+[2025-11-09 09:58:09] 💓 System healthy: 20760 checks completed, monitoring continues...
+[2025-11-09 10:58:50] 💓 System healthy: 20880 checks completed, monitoring continues...
+[2025-11-09 11:39:50] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10acd9a00>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-09 12:12:55] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a6f2cc0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-09 12:21:06] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107817530>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-09 14:13:39] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-09 14:36:36] 💓 System healthy: 21000 checks completed, monitoring continues...
+[2025-11-09 15:39:33] 💓 System healthy: 21120 checks completed, monitoring continues...
+[2025-11-09 17:07:46] 💓 System healthy: 21240 checks completed, monitoring continues...
+[2025-11-09 18:19:57] 💓 System healthy: 21360 checks completed, monitoring continues...
+[2025-11-09 19:25:04] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-09 19:41:04] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1076b2690>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-09 20:22:24] 💓 System healthy: 21480 checks completed, monitoring continues...
+[2025-11-09 21:23:15] 💓 System healthy: 21600 checks completed, monitoring continues...
+[2025-11-09 22:24:02] 💓 System healthy: 21720 checks completed, monitoring continues...
+[2025-11-09 23:24:55] 💓 System healthy: 21840 checks completed, monitoring continues...
+[2025-11-10 01:30:40] 🚨 EARTHQUAKE DETECTED: 10 kasım 2025 - BALIKESIR
+[2025-11-10 01:30:40]    Başlık: 10 kasım 2025 balıkesir depremi
+[2025-11-10 01:30:40]    URL: https://eksisozluk.com/10-kasim-2025-balikesir-depremi--8044076?a=popular
+[2025-11-10 01:30:40]    Entry count: 53
+[2025-11-10 01:30:40]    Confidence: high
+[2025-11-10 09:48:55] 💓 System healthy: 21960 checks completed, monitoring continues...
+[2025-11-10 10:39:43] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a2c63c0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-10 10:40:13] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a7738f0>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-10 11:19:03] 💓 System healthy: 22080 checks completed, monitoring continues...
+[2025-11-10 12:09:49] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Read timed out. (read timeout=20)
+[2025-11-10 12:50:30] 💓 System healthy: 22200 checks completed, monitoring continues...
+[2025-11-10 13:51:52] 💓 System healthy: 22320 checks completed, monitoring continues...
+[2025-11-10 15:00:03] 💓 System healthy: 22440 checks completed, monitoring continues...
+[2025-11-10 16:23:20] ❌ HTTP error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2025-11-10 16:52:59] 💓 System healthy: 22560 checks completed, monitoring continues...
+[2025-11-10 17:54:29] 💓 System healthy: 22680 checks completed, monitoring continues...
+[2025-11-10 19:24:46] 💓 System healthy: 22800 checks completed, monitoring continues...
+[2025-11-10 20:26:14] 💓 System healthy: 22920 checks completed, monitoring continues...
+[2025-11-10 21:39:13] 💓 System healthy: 23040 checks completed, monitoring continues...
+[2025-11-10 22:09:13] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1076f5010>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-10 22:40:52] ❌ HTTP error: HTTPSConnectionPool(host='eksisozluk.com', port=443): Max retries exceeded with url: /basliklar/gundem (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a8d8680>: Failed to resolve 'eksisozluk.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2025-11-11 01:02:01] 💓 System healthy: 23160 checks completed, monitoring continues...
+[2025-11-11 02:56:58] 💓 System healthy: 23280 checks completed, monitoring continues...
+[2025-11-11 09:22:46] 🚨 EARTHQUAKE DETECTED: 30 haziran 2026 - ISTANBUL
+[2025-11-11 09:22:46]    Başlık: 30 haziran 2026 three days grace istanbul konseri
+[2025-11-11 09:22:46]    URL: https://eksisozluk.com/30-haziran-2026-three-days-grace-istanbul-konseri--8044287?a=popular
+[2025-11-11 09:22:46]    Entry count: 11
+[2025-11-11 09:22:46]    Confidence: medium
+[2025-11-11 09:39:05] 💓 System healthy: 23400 checks completed, monitoring continues...
+[2025-11-11 10:43:49] 💓 System healthy: 23520 checks completed, monitoring continues...

@@ -8,6 +8,9 @@ import time
 from datetime import datetime
 import json
 import os
+import sys
+import subprocess
+from pathlib import Path
 from earthquake_patterns import is_earthquake_baslik
 
 # Configuration
@@ -19,14 +22,17 @@ HEARTBEAT_INTERVAL = 2  # Log heartbeat every N fetches (120 fetches = 1 hour wi
 # Data directories
 DATA_DIR = "data"
 LOGS_DIR = "logs"
+SCRAPER_DATA_DIR = os.path.join(DATA_DIR, "scrapers")
 DETECTED_EVENTS_FILE = os.path.join(DATA_DIR, "detected_events.jsonl")
 GUNDEM_LOG_FILE = os.path.join(LOGS_DIR, "gundem_monitor.log")
+SCRAPER_WORKER_PATH = os.path.join("scraper", "scraper_worker.py")
 
 
 def setup_directories():
     """Create data and logs directories"""
     os.makedirs(DATA_DIR, exist_ok=True)
     os.makedirs(LOGS_DIR, exist_ok=True)
+    os.makedirs(SCRAPER_DATA_DIR, exist_ok=True)
 
 
 def log_message(message: str, to_file: bool = True):
@@ -40,12 +46,61 @@ def log_message(message: str, to_file: bool = True):
             f.write(log_line + '\n')
 
 
-def save_earthquake_event(baslik_data: dict, pattern_match: dict):
-    """Save detected earthquake event to file"""
+def spawn_scraper_worker(url: str, url_path: str):
+    """
+    Spawn a scraper worker process for the given URL.
+    Worker will run independently and shut down when entry count reaches 0.
+
+    Args:
+        url: Full URL (e.g. https://eksisozluk.com/deprem--123456)
+        url_path: URL path after .com/ (e.g. deprem--123456)
+    """
+    # Use URL path as directory name (e.g. deprem--123456)
+    # Strip leading slash if present
+    dir_name = url_path.lstrip('/')
+    thread_dir = os.path.join(SCRAPER_DATA_DIR, dir_name)
+    os.makedirs(thread_dir, exist_ok=True)
+
+    state_file = os.path.join(thread_dir, "state.json")
+    output_dir = os.path.join(thread_dir, "diffs")
+
+    # Check if a worker is already running for this URL by checking lock file
+    lock_file = f"{state_file}.lock"
+    if os.path.exists(lock_file):
+        log_message(f"⚠️  Worker already running for {dir_name} (lock file exists)")
+        return False
+
+    try:
+        # Spawn worker process (fire and forget)
+        subprocess.Popen(
+            [
+                sys.executable,
+                SCRAPER_WORKER_PATH,
+                url,
+                state_file,
+                output_dir
+            ],
+            stdout=open(os.path.join(thread_dir, "worker.log"), 'a'),
+            stderr=subprocess.STDOUT,
+            start_new_session=True  # Detach from parent process
+        )
+
+        log_message(f"✓ Spawned scraper worker for {dir_name}")
+        log_message(f"   Worker output: {thread_dir}/worker.log")
+        return True
+
+    except Exception as e:
+        log_message(f"❌ Failed to spawn scraper worker: {e}")
+        return False
+
+
+def save_earthquake_event(baslik_data: dict, pattern_match: dict, earthquake_id: str):
+    """Save detected earthquake event to file and spawn scraper worker"""
     event = {
         'detected_at': datetime.now().isoformat(),
         'baslik': baslik_data,
-        'earthquake_info': pattern_match
+        'earthquake_info': pattern_match,
+        'earthquake_id': earthquake_id
     }
 
     with open(DETECTED_EVENTS_FILE, 'a', encoding='utf-8') as f:
@@ -58,6 +113,11 @@ def save_earthquake_event(baslik_data: dict, pattern_match: dict):
     log_message(f"   URL: https://eksisozluk.com{baslik_data['url']}")
     log_message(f"   Entry count: {baslik_data['entry_count']}")
     log_message(f"   Confidence: {pattern_match['confidence']}")
+
+    # Spawn scraper worker to monitor this thread
+    full_url = f"https://eksisozluk.com{baslik_data['url']}"
+    url_path = baslik_data['url']  # e.g. /deprem--123456
+    spawn_scraper_worker(full_url, url_path)
 
 
 def fetch_gundem():
@@ -138,7 +198,7 @@ def monitor_earthquakes():
 
                         # Only alert if we haven't seen this earthquake before
                         if earthquake_id not in detected_earthquakes:
-                            save_earthquake_event(baslik, pattern_match)
+                            save_earthquake_event(baslik, pattern_match, earthquake_id)
                             detected_earthquakes.add(earthquake_id)
 
             time.sleep(POLL_INTERVAL)
