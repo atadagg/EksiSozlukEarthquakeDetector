@@ -17,7 +17,7 @@ from typing import Dict, List, Optional, Tuple, Set
 from pathlib import Path
 from contextlib import contextmanager
 
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 
 
@@ -74,14 +74,16 @@ def acquire_lock(lock_file: str):
 # ============================================================================
 
 def fetch_html_with_retry(url: str, headers: Dict[str, str], max_retries: int = MAX_RETRIES) -> Optional[str]:
-    """Fetch HTML with exponential backoff retry logic."""
+    """Fetch HTML with exponential backoff retry logic using cloudscraper to bypass Cloudflare."""
+    scraper = cloudscraper.create_scraper()
+
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+            response = scraper.get(url, timeout=REQUEST_TIMEOUT)
             response.raise_for_status()
             return response.text
 
-        except requests.exceptions.RequestException as e:
+        except Exception as e:
             wait_time = RETRY_BACKOFF_BASE ** attempt
 
             if attempt < max_retries - 1:

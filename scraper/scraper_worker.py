@@ -19,7 +19,7 @@ import signal
 
 # Configuration
 SCRAPE_INTERVAL = 300  # 5 minutes in seconds
-MAX_CONSECUTIVE_FAILURES = 3  # Exit after N consecutive failures
+MAX_CONSECUTIVE_FAILURES = None  # Never give up - keep trying forever
 
 class ScraperWorker:
     def __init__(self, url: str, state_file: str, output_dir: str):
@@ -127,11 +127,13 @@ class ScraperWorker:
             if entry_count == -1:
                 # Scraping failed
                 self.consecutive_failures += 1
-                self.log(f"Scraping failed ({self.consecutive_failures}/{MAX_CONSECUTIVE_FAILURES})")
-
-                if self.consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-                    self.log(f"Too many consecutive failures ({MAX_CONSECUTIVE_FAILURES}). Shutting down.")
-                    break
+                if MAX_CONSECUTIVE_FAILURES is not None:
+                    self.log(f"Scraping failed ({self.consecutive_failures}/{MAX_CONSECUTIVE_FAILURES})")
+                    if self.consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                        self.log(f"Too many consecutive failures ({MAX_CONSECUTIVE_FAILURES}). Shutting down.")
+                        break
+                else:
+                    self.log(f"Scraping failed (attempt #{self.consecutive_failures}) - will keep retrying indefinitely")
 
             elif entry_count == 0:
                 # Thread has been merged - shut down

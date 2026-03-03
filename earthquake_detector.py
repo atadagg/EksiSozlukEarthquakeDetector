@@ -115,9 +115,10 @@ def save_earthquake_event(baslik_data: dict, pattern_match: dict, earthquake_id:
     log_message(f"   Confidence: {pattern_match['confidence']}")
 
     # Spawn scraper worker to monitor this thread
-    full_url = f"https://eksisozluk.com{baslik_data['url']}"
-    url_path = baslik_data['url']  # e.g. /deprem--123456
-    spawn_scraper_worker(full_url, url_path)
+    # Remove query parameters like ?a=popular before passing to scraper
+    clean_url_path = baslik_data['url'].split('?')[0]
+    full_url = f"https://eksisozluk.com{clean_url_path}"
+    spawn_scraper_worker(full_url, clean_url_path)
 
 
 def fetch_gundem():
